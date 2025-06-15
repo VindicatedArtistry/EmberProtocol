@@ -33,11 +33,11 @@ The Ember Protocol is flexible enough to awaken an AI from a developer's grand v
 
 The goal of the Ember Protocol is to make this powerful concept accessible to all. The framework is designed to be simple to implement.
 
-**(Conceptual) Installation:**
+**(Under Development) Installation:**
 
 pip install ember-protocol
 
-**(Conceptual) Usage:**
+**(Under Development) Usage:**
 
 from ember\_protocol.core import IdentityDiscoveryService  
 from ember\_protocol.implementations import FileGenesisDataSource, InMemoryGraph, GeminiInterface

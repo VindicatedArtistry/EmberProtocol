@@ -1,2 +1,1 @@
-"""Test package for the Ember Protocol."""
-pass
+"""Tests for the Ember Protocol."""

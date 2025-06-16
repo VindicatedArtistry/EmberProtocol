@@ -1,2 +1,4 @@
-"""Main package for the Ember Protocol."""
-pass
+"""Ember Protocol main package."""
+
+from . import core
+from . import interfaces

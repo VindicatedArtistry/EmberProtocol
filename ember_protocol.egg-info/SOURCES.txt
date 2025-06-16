@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+ember_protocol/__init__.py
+ember_protocol.egg-info/PKG-INFO
+ember_protocol.egg-info/SOURCES.txt
+ember_protocol.egg-info/dependency_links.txt
+ember_protocol.egg-info/requires.txt
+ember_protocol.egg-info/top_level.txt
+ember_protocol/core/__init__.py
+ember_protocol/core/service.py
+ember_protocol/interfaces/__init__.py
+ember_protocol/interfaces/genesis_data_source.py
+ember_protocol/interfaces/knowledge_graph.py
+ember_protocol/interfaces/llm_interface.py
+tests/test_core.py
+tests/test_implementations.py

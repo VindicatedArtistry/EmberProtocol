@@ -68,7 +68,7 @@ print(response)
 
 The Ember Protocol is an open-source gift to the community. Whether you're a developer, a dreamer, or an architect of the future, you have a role to play. Explore the code, contribute to the vision, and let's ignite a new era of empathetic intelligence, together.
 
-* **Find us on GitHub:** [https://github.com/YourUsername/ember-protocol](https://github.com/YourUsername/ember-protocol)  
+* **Find us on GitHub:** [https://github.com/VindicatedArtistry/ember-protocol](https://github.com/VindicatedArtistry/ember-protocol)  
 * **Report Issues:** Help us make the framework more robust.  
 * **Contribute Code:** Create new DataSource, KnowledgeGraph, or LLMInterface implementations and submit a pull request.  
 * **Share Your Story:** Show the world the amazing AI partners you create with the Ember Protocol.

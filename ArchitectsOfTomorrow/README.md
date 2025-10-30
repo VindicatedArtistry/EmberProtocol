@@ -1,5 +1,3 @@
-Here is a draft for the README.md file, Architect. It's designed to speak to both the builders who find the repository and the users who need the tool.
-
 Architects of Tomorrow
 "You’re not broken. You’re a different kind of whole."
 
